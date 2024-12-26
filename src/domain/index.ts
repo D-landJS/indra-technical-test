@@ -1,0 +1,9 @@
+export { ConfigDatabase } from './interfaces/config-database.interface';
+export { DatabaseResult } from './interfaces/database-result.interface';
+export { PeopleSWPResponseES } from './interfaces/people-response.es.interface';
+export { PeopleSWPResponseEN } from './interfaces/people-response.en.interface';
+export { HttpResponse } from './interfaces/http-response.interface';
+export { PeopleProvider } from './interfaces/people-provider.interface';
+export { PeopleApiResponse } from './interfaces/people-api-response.interface';
+export { DatabaseConnection } from './interfaces/connection-database.interface';
+export { PeopleRepository } from './interfaces/people.repository';
