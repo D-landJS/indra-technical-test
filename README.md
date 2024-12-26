@@ -40,7 +40,7 @@ Para ejecutar la API Lambda localmente, sigue estos pasos:
    DATABASE_MYSQL_PASSWORD=''
    DATABASE_MYSQL_PORT=''
    ```
-
+3. Imagen de referencia
 ![ENV_LAMBDA](https://github.com/user-attachments/assets/bb409b76-db24-4478-9260-3740430fe8eb)
 
 
